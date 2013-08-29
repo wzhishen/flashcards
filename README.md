@@ -5,7 +5,7 @@ Authors: Zhishen (Jason) Wen and Eric Nida
 
 
 ------------------------------------------------
-Note
+Note:
 
 Our custom flashcard file is saved in the project src/flashcards directory with the name "ourCustomFlashcardFile.txt". To use it, please locate this file when using Build and then save it as default file. Or you may simply copy it to the project root folder and rename it as "data.txt" file.
 The project root folder also contains a "data.txt" file that is used by the flashcard programs as a default file and will be
@@ -14,7 +14,7 @@ blank initially.
 
 
 ------------------------------------------------
-Extra Functionality
+Extra Functionalities:
 
 Study.java:<br>
 1. Keyboard equivalents.<br>
